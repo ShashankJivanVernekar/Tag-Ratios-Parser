@@ -107,20 +107,6 @@ public class TTRExtractor {
 				bufferedWriter.write("\n");
 			}
 			bufferedWriter.close();
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
 		}
 		catch(Exception e)
 		{
